@@ -1,0 +1,6 @@
+{
+  "name": "DUNIA",
+  "description": "Dual Universe of Needs, Income & Aspirations. Personal finance manager for Haikal & Ummu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
